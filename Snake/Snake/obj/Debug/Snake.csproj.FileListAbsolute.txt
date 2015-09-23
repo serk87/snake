@@ -7,3 +7,6 @@ C:\Users\Администратор\Documents\learn\snake\Snake\Snake\obj\Debug\
 C:\Users\Администратор\Documents\learn\snake\snake.git\Snake\Snake\bin\Debug\Snake.exe.config
 C:\Users\Администратор\Documents\learn\snake\snake.git\Snake\Snake\obj\Debug\Snake.exe
 C:\Users\Администратор\Documents\learn\snake\snake.git\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Администратор\Documents\learn\snake\snake.git\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Администратор\Documents\learn\snake\snake.git\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Администратор\Documents\learn\snake\snake.git\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache

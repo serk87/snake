@@ -10,25 +10,16 @@ namespace Snake
     {
         static void Main(string[] args)
         {
-            int x1 = 1;
-            int x2 = 3;
-            char syml = '*';
 
-            Drow(x1, x2, syml);
+            Point p1 = new Point();
+            p1.x = 1;
+            p1.y = 3;
+            p1.sym = '*';
+            p1.Drow();
+
        
-
-            int y1 =5;
-            int y2 = 3;
-            char syml2 = '#';
-
-            Drow(y1, y2, syml2);
             Console.ReadLine();
         }
-        static void Drow (int x, int y, char sym)
-        {
-            Console.SetCursorPosition(x, y);
-            Console.WriteLine(sym);
-            
-        }
+        
     }
 }
